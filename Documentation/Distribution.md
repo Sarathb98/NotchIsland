@@ -4,9 +4,9 @@ Local Debug and Release builds use ad-hoc signing. They are suitable for develop
 
 ## Prepare a Developer ID release
 
-1. Install a **Developer ID Application** certificate in your keychain and choose your Apple Developer team.
+1. Join the [Apple Developer Program](https://developer.apple.com/programs/enroll/) if your account is not already enrolled. The account holder should create a [certificate signing request](https://developer.apple.com/help/account/certificates/create-a-certificate-signing-request/) on this Mac, then create and install a [Developer ID Application certificate](https://developer.apple.com/help/account/certificates/create-developer-id-certificates/) using that request. The certificate must appear with its private key in Keychain Access.
 2. Set `NOTCH_TEAM_ID` and `NOTCH_SIGN_IDENTITY` in your shell. The identity is the certificate's full display name.
-3. Run `sh Scripts/package-release.sh`. It archives a universal arm64/x86_64 app with the existing hardened runtime setting and entitlements, verifies the signature, confirms the requested Developer ID team and certificate, rejects a debugging entitlement, and produces `build/Release/NotchIsland.zip`.
+3. Run `sh Scripts/package-release.sh`. It archives a universal arm64/x86_64 app with the existing hardened runtime setting and entitlements, verifies the signature, confirms the requested Developer ID team, certificate and secure timestamp, rejects a debugging entitlement, and produces `build/Release/NotchIsland.zip`.
 4. Create a notarytool keychain profile using Apple's `xcrun notarytool store-credentials` flow. Keep credentials in Keychain, never in the repository.
 5. Set `NOTCH_NOTARY_PROFILE` to that profile's name and run `sh Scripts/notarize-release.sh`. The script submits the ZIP, requires an Accepted result, staples the app, validates the ticket, and rebuilds the ZIP.
 6. Test the resulting app from `/Applications` on a separate account or Mac. Launch at login and privacy permissions depend on stable installation and signing identity.

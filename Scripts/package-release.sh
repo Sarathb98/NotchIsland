@@ -18,6 +18,10 @@ if ! codesign -dv --verbose=4 "$notch_app" 2>&1 | grep -q '^Authority=Developer 
   echo 'Archive does not have a Developer ID Application certificate.' >&2
   exit 1
 fi
+if ! codesign -dv --verbose=4 "$notch_app" 2>&1 | grep -q '^Timestamp='; then
+  echo 'Archive has no secure signing timestamp.' >&2
+  exit 1
+fi
 notch_entitlements=$(mktemp)
 trap 'rm -f "$notch_entitlements"' 0
 codesign -d --entitlements :- "$notch_app" > "$notch_entitlements" 2>/dev/null
