@@ -21,4 +21,4 @@ Bluetooth device status and camera awareness are optional. System status uses ma
 
 You can pause or clear clipboard history in the app, remove notes and tasks, and remove files from the shelf. You can revoke Calendar, Camera, Bluetooth and Screen Recording permissions in macOS **System Settings → Privacy & Security**. Removing the app itself does not automatically remove notes, tasks, preferences, pinned files, downloads or recordings saved on your Mac.
 
-For questions or bug reports, use this repository's GitHub Issues page once it is public. See [Capabilities](Documentation/Capabilities.md) for implementation details.
+For questions or bug reports, use this repository's GitHub Issues page. See [Capabilities](Documentation/Capabilities.md) for implementation details.

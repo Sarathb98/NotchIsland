@@ -73,7 +73,7 @@ See [Capabilities](Documentation/Capabilities.md) for integration and storage de
 
 Notes, tasks, settings and pinned shelf files are stored on this Mac. Clipboard history starts off on every launch and stays in memory when enabled. Calendar, camera, Bluetooth status and screen recording require an explicit feature action or permission. The app has no account or analytics service. See [Privacy](PRIVACY.md) for what each feature reads or stores.
 
-After the repository is public, use its GitHub Issues page to report bugs or suggest improvements. The [validation checklist](Documentation/Validation.md) records the hands-on testing still needed for the beta.
+Use this repository's GitHub Issues page to report bugs or suggest improvements. The [validation checklist](Documentation/Validation.md) records the hands-on testing still needed for the beta.
 
 ## Architecture
 

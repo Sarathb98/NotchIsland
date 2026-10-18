@@ -17,12 +17,11 @@ Signing and notarization have **not** been executed: they require your Developer
 
 ## Publish the source and download
 
-The app does not need a hosting server. GitHub can host the source repository and a downloadable ZIP on its Releases page. Keep `build/`, signing keys and notary credentials out of the repository; the ZIP belongs on a Release, not in source control.
+The app does not need a hosting server. The MIT-licensed source is public at [Sarathb98/NotchIsland](https://github.com/Sarathb98/NotchIsland). GitHub can host the future downloadable ZIP on its Releases page. Keep `build/`, signing keys and notary credentials out of the repository; the ZIP belongs on a Release, not in source control.
 
-1. Commit the reviewed source, including `LICENSE` and `PRIVACY.md`, to a repository under your GitHub account and make it public.
-2. After the signed ZIP passes a fresh-install check, create a version tag that matches the app version in `NotchIsland/App/Info.plist`.
-3. Create a GitHub Release from that tag, attach `build/Release/NotchIsland.zip`, and include the macOS requirement, install steps and release notes.
+1. After the signed ZIP passes a fresh-install check, create a version tag that matches the app version in `NotchIsland/App/Info.plist`.
+2. Create a GitHub Release from that tag, attach `build/Release/NotchIsland.zip`, and include the macOS requirement, install steps and release notes.
 
-There is no automatic updater in this app; users will download a new Release when you publish an update. The source repository can be published before the first app download if Apple Developer signing is still being set up.
+There is no automatic updater in this app; users will download a new Release when you publish an update. The source is available now; the app download still requires Developer ID signing, notarization and installation testing.
 
 References: [Apple notarization documentation](https://developer.apple.com/documentation/security/notarizing-macos-software-before-distribution), [required-reason API declarations](https://developer.apple.com/documentation/bundleresources/app-privacy-configuration/nsprivacyaccessedapitypes/nsprivacyaccessedapitype), [GitHub Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository).
