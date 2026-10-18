@@ -1,0 +1,10 @@
+build/
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Local release credentials (keep signing keys in Keychain)
+.env
+.env.*
+*.p8
+*.p12

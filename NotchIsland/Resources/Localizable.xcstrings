@@ -1,0 +1,1218 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ downloaded" : {
+
+    },
+    "%@ of %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ of %2$@"
+          }
+        }
+      }
+    },
+    "%@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@, %2$@"
+          }
+        }
+      }
+    },
+    "%lld files" : {
+
+    },
+    "%lld minute timer" : {
+
+    },
+    "%lld minutes" : {
+
+    },
+    "%lld of %lld files" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld files"
+          }
+        }
+      }
+    },
+    "%lld percent" : {
+
+    },
+    "%lld remaining" : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "%lld%% remaining" : {
+
+    },
+    "%lld-minute timer" : {
+
+    },
+    "%lldm" : {
+
+    },
+    "25 min focus · 5 min break" : {
+
+    },
+    "5-minute timer" : {
+
+    },
+    "A native productivity surface for your Mac." : {
+
+    },
+    "A thought to keep close…" : {
+
+    },
+    "AC" : {
+
+    },
+    "About" : {
+
+    },
+    "Accessory battery levels are unavailable through this integration." : {
+
+    },
+    "Actions" : {
+
+    },
+    "Add" : {
+
+    },
+    "Add Timer" : {
+
+    },
+    "Add regular files to the shelf. Folders and symbolic links are not supported." : {
+
+    },
+    "Adding files" : {
+
+    },
+    "Additional system capabilities" : {
+
+    },
+    "Adjust volume using the output device’s controls." : {
+
+    },
+    "Advanced" : {
+
+    },
+    "All day" : {
+
+    },
+    "All modules" : {
+
+    },
+    "Allow Notch Island in System Settings to finish enabling launch at login." : {
+
+    },
+    "Allowed" : {
+
+    },
+    "Animation" : {
+
+    },
+    "Animations follow macOS Reduce Motion. Surfaces follow Reduce Transparency and Increase Contrast." : {
+
+    },
+    "Appearance" : {
+
+    },
+    "Application…" : {
+
+    },
+    "Approve in Login Items…" : {
+
+    },
+    "Apps" : {
+
+    },
+    "Auto-collapse delay" : {
+
+    },
+    "Bluetooth access is unavailable. Check Privacy & Security in System Settings." : {
+
+    },
+    "Bluetooth authorization could not be determined" : {
+
+    },
+    "Bluetooth device" : {
+
+    },
+    "Bluetooth devices" : {
+
+    },
+    "Bluetooth is turned off" : {
+
+    },
+    "Bluetooth is unavailable" : {
+
+    },
+    "Bluetooth, camera status and screen recording ask for permission from their own controls. No access is requested during setup." : {
+
+    },
+    "Brightness" : {
+
+    },
+    "Build" : {
+
+    },
+    "Built with SwiftUI and AppKit. Not affiliated with Apple." : {
+
+    },
+    "CPU" : {
+
+    },
+    "Calendar" : {
+
+    },
+    "Calendar Access" : {
+
+    },
+    "Calendar Settings" : {
+
+    },
+    "Calendar access is off" : {
+
+    },
+    "Calendar controls are available while Notch Island is running." : {
+
+    },
+    "Calendar preview" : {
+
+    },
+    "Calendar unavailable" : {
+
+    },
+    "Calendar, Bluetooth, camera, screen recording, and file access follow macOS permission controls. You can revoke access in System Settings." : {
+
+    },
+    "Camera access is unavailable. Check Privacy & Security in System Settings." : {
+
+    },
+    "Camera authorization could not be determined" : {
+
+    },
+    "Camera awareness" : {
+
+    },
+    "Camera awareness is off" : {
+
+    },
+    "Camera in use by another app" : {
+
+    },
+    "Camera permission has not been granted" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Cancelling…" : {
+
+    },
+    "Charging" : {
+
+    },
+    "Checking connection" : {
+
+    },
+    "Choose Files…" : {
+
+    },
+    "Choose Local Media" : {
+
+    },
+    "Choose Your Modules" : {
+
+    },
+    "Choose a File…" : {
+
+    },
+    "Choose a Folder" : {
+
+    },
+    "Choose an Application" : {
+
+    },
+    "Choose audio or video files" : {
+
+    },
+    "Choose this location again." : {
+
+    },
+    "Choose what to connect" : {
+
+    },
+    "Choose where to save this file. Downloads are never opened automatically." : {
+
+    },
+    "Choose which modules appear in the island. Use the arrow buttons to arrange them. Clipboard collection and system permissions are controlled separately." : {
+
+    },
+    "Clear" : {
+
+    },
+    "Clear History and Favorites" : {
+
+    },
+    "Clear Unpinned Copies" : {
+
+    },
+    "Clear unpinned files" : {
+
+    },
+    "Click to open your island" : {
+
+    },
+    "Clipboard" : {
+
+    },
+    "Clipboard History" : {
+
+    },
+    "Clipboard Privacy" : {
+
+    },
+    "Clipboard history" : {
+
+    },
+    "Clipboard history is off" : {
+
+    },
+    "Clipboard history is optional and starts paused at every launch." : {
+
+    },
+    "Clipboard history is paused" : {
+
+    },
+    "Clipboard history starts off at each launch. Enable it in the Clipboard module when you want to collect new copies." : {
+
+    },
+    "Close any open file dialog, or stop the recording and allow the file to finish saving, then try again." : {
+
+    },
+    "Collapse" : {
+
+    },
+    "Collapse Island" : {
+
+    },
+    "Collapse island" : {
+
+    },
+    "Collapsed dimensions follow the display’s safe area and physical notch." : {
+
+    },
+    "Collect new copies" : {
+
+    },
+    "Collecting new copies on this Mac" : {
+
+    },
+    "Command–Shift–Space" : {
+
+    },
+    "Connect Calendar…" : {
+
+    },
+    "Connect your calendar" : {
+
+    },
+    "Connected" : {
+
+    },
+    "Connected paired devices" : {
+
+    },
+    "Connect…" : {
+
+    },
+    "Control–Option–N" : {
+
+    },
+    "Control–Option–Space" : {
+
+    },
+    "Copied to clipboard" : {
+
+    },
+    "Copies from known password managers and items marked confidential or transient are skipped. Source detection follows the foreground app and cannot identify every sensitive copy." : {
+
+    },
+    "Copy" : {
+
+    },
+    "Copy Note" : {
+
+    },
+    "Copy note" : {
+
+    },
+    "Copy to clipboard" : {
+
+    },
+    "Copying files to tray" : {
+
+    },
+    "Could not read saved notes: %@" : {
+
+    },
+    "Could not read the dropped file." : {
+
+    },
+    "Could not save notes: %@" : {
+
+    },
+    "Could not save quick actions: %@" : {
+
+    },
+    "Could not save the download: %@" : {
+
+    },
+    "Could not stop recording: %@" : {
+
+    },
+    "Counting down" : {
+
+    },
+    "Create a note to keep a thought close by." : {
+
+    },
+    "Dark" : {
+
+    },
+    "Delete Note" : {
+
+    },
+    "Device monitoring is off" : {
+
+    },
+    "Disable" : {
+
+    },
+    "Disk available" : {
+
+    },
+    "Dismiss activity" : {
+
+    },
+    "Displays" : {
+
+    },
+    "Done" : {
+
+    },
+    "Download" : {
+
+    },
+    "Download URL" : {
+
+    },
+    "Download cancelled" : {
+
+    },
+    "Download complete" : {
+
+    },
+    "Download failed" : {
+
+    },
+    "Downloading" : {
+
+    },
+    "Downloads" : {
+
+    },
+    "Download…" : {
+
+    },
+    "Drop files here" : {
+
+    },
+    "Drop into your tray" : {
+
+    },
+    "Dropped files are copied into app-owned storage. Temporary copies are removed when you quit. Pinned copies survive relaunching; originals stay in place." : {
+
+    },
+    "Duration" : {
+
+    },
+    "Each shelf file must be smaller than 200 MB." : {
+
+    },
+    "Elapsed time" : {
+
+    },
+    "Enable" : {
+
+    },
+    "Enable Calendar" : {
+
+    },
+    "Enable Keyboard Navigation in macOS System Settings to move focus through all native controls." : {
+
+    },
+    "Enable Media, Calendar, Notes, or Timer in Settings to show them here." : {
+
+    },
+    "Enable global keyboard shortcut" : {
+
+    },
+    "Enable in System Settings → Privacy → Calendars" : {
+
+    },
+    "Enable modules in Settings to personalize your island." : {
+
+    },
+    "Enable to save new text, links, images, and file references. History and favorites stay in memory and are cleared when you quit." : {
+
+    },
+    "Enabled Modules and Order" : {
+
+    },
+    "Ended" : {
+
+    },
+    "Enter a valid HTTPS URL without a username or password." : {
+
+    },
+    "Ethernet connected" : {
+
+    },
+    "Example: com.apple.Terminal" : {
+
+    },
+    "Excluded app bundle IDs, separated by commas" : {
+
+    },
+    "Excluded application bundle IDs" : {
+
+    },
+    "Expand" : {
+
+    },
+    "Expanded width" : {
+
+    },
+    "Favorite" : {
+
+    },
+    "File Shelf" : {
+
+    },
+    "Files" : {
+
+    },
+    "Files in tray" : {
+
+    },
+    "Files on shelf" : {
+
+    },
+    "Finding applications…" : {
+
+    },
+    "Finish the current operation before quitting" : {
+
+    },
+    "Finishing…" : {
+
+    },
+    "Focus session" : {
+
+    },
+    "Focus timer is unavailable." : {
+
+    },
+    "Folder…" : {
+
+    },
+    "General" : {
+
+    },
+    "Get Started" : {
+
+    },
+    "Get around" : {
+
+    },
+    "History cleared" : {
+
+    },
+    "History cleared; collecting new copies" : {
+
+    },
+    "History is full of favorites. Remove one to keep new copies." : {
+
+    },
+    "History starts paused at each launch. Text, URLs, images, and file references stay in memory and are cleared when you quit." : {
+
+    },
+    "Hover delay" : {
+
+    },
+    "Hover to preview, click to expand, and press Escape or click outside to collapse. Right-click the island for its context menu." : {
+
+    },
+    "Hover to preview. Click to open." : {
+
+    },
+    "Idle" : {
+
+    },
+    "Image" : {
+
+    },
+    "In progress" : {
+
+    },
+    "In use" : {
+
+    },
+    "Input activity is reported by the audio driver; individual apps are not identified." : {
+
+    },
+    "Input device" : {
+
+    },
+    "Interaction" : {
+
+    },
+    "Island" : {
+
+    },
+    "Keep files close. Drag them out whenever you need them." : {
+
+    },
+    "Keep your next event in view" : {
+
+    },
+    "Keyboard Navigation" : {
+
+    },
+    "Known password managers and items marked confidential or transient are skipped. Source detection follows the foreground app and cannot identify every sensitive copy." : {
+
+    },
+    "Launch at login" : {
+
+    },
+    "Light" : {
+
+    },
+    "Load Playlist" : {
+
+    },
+    "Local Media" : {
+
+    },
+    "Local media" : {
+
+    },
+    "Lock screen shortcut" : {
+
+    },
+    "Low battery" : {
+
+    },
+    "Main display and cursor · No audio" : {
+
+    },
+    "Make room for music" : {
+
+    },
+    "Media" : {
+
+    },
+    "Media Integration" : {
+
+    },
+    "Media adapters use supported public APIs. Playback in unrelated apps is only available through a separately supported integration." : {
+
+    },
+    "Memory in use" : {
+
+    },
+    "Modules" : {
+
+    },
+    "Move %@ down" : {
+
+    },
+    "Move %@ up" : {
+
+    },
+    "Move Down" : {
+
+    },
+    "Move Up" : {
+
+    },
+    "Name" : {
+
+    },
+    "Network" : {
+
+    },
+    "New copies appear here after history is enabled." : {
+
+    },
+    "New note" : {
+
+    },
+    "Next control" : {
+
+    },
+    "Next track" : {
+
+    },
+    "No analytics or telemetry is collected." : {
+
+    },
+    "No audio output" : {
+
+    },
+    "No battery" : {
+
+    },
+    "No camera use reported" : {
+
+    },
+    "No connected paired devices reported" : {
+
+    },
+    "No matching applications" : {
+
+    },
+    "No supported camera found" : {
+
+    },
+    "None" : {
+
+    },
+    "Not allowed" : {
+
+    },
+    "Notch Island" : {
+
+    },
+    "Notch Island Recording" : {
+
+    },
+    "Notch Island Settings" : {
+
+    },
+    "Note" : {
+
+    },
+    "Note text" : {
+
+    },
+    "Notes" : {
+
+    },
+    "Nothing coming up" : {
+
+    },
+    "OK" : {
+
+    },
+    "Offline" : {
+
+    },
+    "On a display without a notch, the island sits at the top center of the screen." : {
+
+    },
+    "On battery" : {
+
+    },
+    "Only transfers started here appear in this list. Files stay at the location you choose." : {
+
+    },
+    "Open" : {
+
+    },
+    "Open %@" : {
+
+    },
+    "Open Calendar" : {
+
+    },
+    "Open Island" : {
+
+    },
+    "Open Login Items…" : {
+
+    },
+    "Open Meeting Link" : {
+
+    },
+    "Open Privacy Settings…" : {
+
+    },
+    "Open System Settings" : {
+
+    },
+    "Open System Settings…" : {
+
+    },
+    "Open Tray" : {
+
+    },
+    "Open an audio or video file in the Media module to see its title, artwork, progress, and available playback controls." : {
+
+    },
+    "Open meeting link" : {
+
+    },
+    "Open meeting link for %@" : {
+
+    },
+    "Opens Quick Look. Drag to copy this file to another app." : {
+
+    },
+    "Other apps require a separately supported media adapter." : {
+
+    },
+    "Output volume" : {
+
+    },
+    "Pause" : {
+
+    },
+    "Pause playback" : {
+
+    },
+    "Paused" : {
+
+    },
+    "Pin" : {
+
+    },
+    "Pinned" : {
+
+    },
+    "Pinned copies" : {
+
+    },
+    "Play" : {
+
+    },
+    "Playback position" : {
+
+    },
+    "Playing" : {
+
+    },
+    "Plays files you choose. Global Now Playing from other apps is unavailable without a separately supported adapter." : {
+
+    },
+    "Pomodoro" : {
+
+    },
+    "Power adapter" : {
+
+    },
+    "Press Control–Command–Q to lock your Mac." : {
+
+    },
+    "Press Escape or click outside to close." : {
+
+    },
+    "Press Shift–Command–5 to open the macOS Screenshot controls." : {
+
+    },
+    "Preview %@" : {
+
+    },
+    "Preview upcoming events in the next 24 hours, meeting countdowns, and available meeting links." : {
+
+    },
+    "Preview your next event" : {
+
+    },
+    "Previous control" : {
+
+    },
+    "Previous track" : {
+
+    },
+    "Privacy Exclusions" : {
+
+    },
+    "Privacy and Performance" : {
+
+    },
+    "Privacy exclusions" : {
+
+    },
+    "Quick Actions" : {
+
+    },
+    "Quick Look" : {
+
+    },
+    "Quick Notes" : {
+
+    },
+    "Quit Notch Island" : {
+
+    },
+    "Ready when you are" : {
+
+    },
+    "Record Main Display" : {
+
+    },
+    "Record Main Display…" : {
+
+    },
+    "Record your main display and cursor without audio. macOS may request screen recording access after you choose a file." : {
+
+    },
+    "Recording" : {
+
+    },
+    "Recording failed: %@" : {
+
+    },
+    "Recording requires macOS 15 or later" : {
+
+    },
+    "Recording requires macOS 15 or later. You can use the macOS Screenshot app on this Mac." : {
+
+    },
+    "Refresh applications" : {
+
+    },
+    "Release to add files" : {
+
+    },
+    "Remove" : {
+
+    },
+    "Remove favorite" : {
+
+    },
+    "Rename Action" : {
+
+    },
+    "Rename…" : {
+
+    },
+    "Repeat" : {
+
+    },
+    "Reports the camera driver’s usage flag after permission is granted. No video is captured. Use the macOS privacy indicator for system-wide awareness." : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset timer" : {
+
+    },
+    "Restore Defaults" : {
+
+    },
+    "Reveal in Finder" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save Download" : {
+
+    },
+    "Saved items" : {
+
+    },
+    "Screen Recording" : {
+
+    },
+    "Screenshot" : {
+
+    },
+    "Search applications" : {
+
+    },
+    "Search clipboard" : {
+
+    },
+    "Select note" : {
+
+    },
+    "Selected" : {
+
+    },
+    "Separate bundle IDs with commas or newlines. Example: com.apple.Terminal" : {
+
+    },
+    "Set timer to %lld minutes" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Settings follow this appearance. The island stays black to blend into the notch." : {
+
+    },
+    "Settings…" : {
+
+    },
+    "Setup" : {
+
+    },
+    "Short break" : {
+
+    },
+    "Shortcut" : {
+
+    },
+    "Shortcut unavailable" : {
+
+    },
+    "Shortcuts" : {
+
+    },
+    "Show Island" : {
+
+    },
+    "Show Recording in Finder" : {
+
+    },
+    "Show Welcome on Next Launch" : {
+
+    },
+    "Show favorites" : {
+
+    },
+    "Show in Finder" : {
+
+    },
+    "Show on displays without a notch" : {
+
+    },
+    "Show on external displays" : {
+
+    },
+    "Size and Timing" : {
+
+    },
+    "Skipped a clipboard item larger than 5 MB" : {
+
+    },
+    "Speed" : {
+
+    },
+    "Spring" : {
+
+    },
+    "Start" : {
+
+    },
+    "Start Recording" : {
+
+    },
+    "Start with your Mac" : {
+
+    },
+    "Starting…" : {
+
+    },
+    "Starts in %lld min" : {
+
+    },
+    "Startup" : {
+
+    },
+    "Status" : {
+
+    },
+    "Stop Recording" : {
+
+    },
+    "Stop playback" : {
+
+    },
+    "Stopwatch" : {
+
+    },
+    "Stopwatch paused" : {
+
+    },
+    "Stored locally. No analytics or telemetry." : {
+
+    },
+    "Style" : {
+
+    },
+    "Subtle" : {
+
+    },
+    "System" : {
+
+    },
+    "System usage and device status are sampled while their panels are visible. Clipboard monitoring runs only when explicitly enabled." : {
+
+    },
+    "Temporary copies. Pin a file to keep it." : {
+
+    },
+    "Temporary copy" : {
+
+    },
+    "The Downloads folder could not be opened." : {
+
+    },
+    "The event link could not be opened." : {
+
+    },
+    "The file shelf stores temporary copies. Pin a copy to keep it after relaunching." : {
+
+    },
+    "The island shortcut is already in use or unavailable. Choose another shortcut in Settings." : {
+
+    },
+    "The main display is no longer available. Try again after reconnecting the display." : {
+
+    },
+    "The recording finished, but could not be moved to your chosen file: %@. Use Show in Finder to recover it." : {
+
+    },
+    "The server did not return a valid HTTP response." : {
+
+    },
+    "The server redirected this download to an unsupported or insecure URL." : {
+
+    },
+    "The server returned HTTP %lld." : {
+
+    },
+    "The shelf holds up to 50 files." : {
+
+    },
+    "The short break starts when focus time ends." : {
+
+    },
+    "The welcome guide will appear the next time you launch Notch Island." : {
+
+    },
+    "This audio device did not accept the volume change." : {
+
+    },
+    "This location could not be opened. Choose it again." : {
+
+    },
+    "This media file could not be played." : {
+
+    },
+    "Time remaining" : {
+
+    },
+    "Timer" : {
+
+    },
+    "Timer is unavailable." : {
+
+    },
+    "Timer mode" : {
+
+    },
+    "Timer remaining" : {
+
+    },
+    "Timer: %lld minutes" : {
+
+    },
+    "Time’s up" : {
+
+    },
+    "Today" : {
+
+    },
+    "Tray" : {
+
+    },
+    "Try again in Downloads." : {
+
+    },
+    "Unpin" : {
+
+    },
+    "Untitled event" : {
+
+    },
+    "Up to 100 items, 5 MB each, and 32 MB total. Clearing history also removes favorites." : {
+
+    },
+    "Up to 100 items, 5 MB per item, and 32 MB total." : {
+
+    },
+    "Up to 50 regular files, 200 MB per file. Folders and symbolic links are not accepted." : {
+
+    },
+    "Upcoming events" : {
+
+    },
+    "Use macOS Display settings or the brightness keys. A universal brightness observer is not available through the APIs used by this app." : {
+
+    },
+    "Use scroll gestures to expand and collapse" : {
+
+    },
+    "Use the menu-bar icon or your configured shortcut to open the island from the keyboard." : {
+
+    },
+    "Version" : {
+
+    },
+    "View event details" : {
+
+    },
+    "Volume" : {
+
+    },
+    "Waiting for Bluetooth permission…" : {
+
+    },
+    "Welcome & Permissions…" : {
+
+    },
+    "Welcome to Notch Island" : {
+
+    },
+    "Wi-Fi connected" : {
+
+    },
+    "You can keep up to 100 quick notes." : {
+
+    },
+    "Your everyday tools" : {
+
+    },
+    "Your next 24 hours are clear" : {
+
+    },
+    "Your next 24 hours are clear." : {
+
+    },
+    "Your timer, files, notes, and system information, just below the notch." : {
+
+    },
+    "https://example.com/file" : {
+
+    }
+  },
+  "version" : "1.0"
+}
